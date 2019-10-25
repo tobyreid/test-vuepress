@@ -19,3 +19,5 @@ fields:
   type: datetime
   config:
     required: true
+pages:
+- portfolio/journal/this-is-a-test-of-a-new-blog-entry.md
