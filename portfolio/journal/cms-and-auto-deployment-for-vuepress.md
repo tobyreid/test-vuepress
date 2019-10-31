@@ -1,6 +1,6 @@
 ---
 title: Content management and auto deployment for vuepress
-date: 2018-08-09 17:49:28 +0000
+date: 2018-08-09T17:49:28.000+00:00
 excerpt: This works like expected, this text is only visible on the front page where
   all the journal posts are listed
 
@@ -12,6 +12,8 @@ Let's check out how we can automatically deploy our vuepress sites and manage th
 ### Preparing our vuepress site
 
 We need to create a `package.json` file in the root of our project, this will include the build command and list vuepress as a dependency.
+
+this is wrong
 
     {
       "name": "project-name",
