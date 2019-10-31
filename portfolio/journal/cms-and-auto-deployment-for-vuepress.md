@@ -11,7 +11,15 @@ Let's check out how we can automatically deploy our vuepress sites and manage th
 
 ### Preparing our vuepress site
 
-We need to create a `package.json` file in the root of our project, this will include the build command and list vuepress as a dependency.
+We need to create a `package.json` file in the root of
+
+sdfgsdfg
+
+sdf
+
+gsd
+
+fg our project, this will include the build command and list vuepress as a dependency.
 
 **this is wrongplkjgfdszhjkl**
 
