@@ -20,6 +20,7 @@ fields:
   config:
     required: true
 pages:
+- portfolio/journal/hello-jason.md
 - portfolio/journal/this-is-a-test-of-a-new-blog-entry.md
 - portfolio/journal/google marketing platform/sdfgsdfg.md
 - portfolio/journal/sdfghjkl-lkjhgfdsa.md
